@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sulemanRkhan
+- 👋 Hi, I’m @suleman khan
 - 👀 I’m passionate to work in professional
 - 🌱 I’m currently learning React js 
 - 📫 How to reach me https://www.linkedin.com/in/suleman-khan-4aa072170/
